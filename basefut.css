@@ -1,0 +1,45 @@
+body{
+	background-color: black;
+	color: white;
+}
+p{
+	font-family: arial;
+	font-size: 12x;
+	text-indent:10px;
+	margin-left: 5px;
+	margin-top: 10px;
+	font-style: justify;
+}
+h1{
+	text-transform: uppercase;
+	text-align: right;
+}
+.gremio{
+	color: blue;
+}
+.inter{
+	color: red;
+	font-style: italic;
+}
+.cbf{
+	color: yellow;
+}
+.fundo{
+	background-color: gray;
+}
+.fundo_surf{
+	background-color: lightblue;
+}
+.titulo{
+	font-size: 30px;
+}
+a: visited {
+	color: red;
+	}
+a:active {
+	background-color: red;
+	}
+a:hover {
+	color: orange;
+	font-style: italic;
+	}
